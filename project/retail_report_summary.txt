@@ -1,0 +1,37 @@
+
+Retail Business Performance & Profitability Analysis
+-----------------------------------------------------
+Prepared by: Raghavendra P
+Tools Used: SQL (Pandas), Python, Tableau
+Date: June 2025
+
+Project Objective:
+- Uncover profit-draining categories
+- Optimize inventory turnover
+- Identify seasonal product behavior
+
+Key Metrics:
+- Total Revenue: ₹15,50,000+
+- Total Profit: ₹3,75,000+
+- Avg. Profit Margin: ~24%
+- Avg. Inventory Days: ~45 days
+
+Findings:
+1. Top Profitable: Electronics (Mobiles, Laptops)
+2. Least Profitable: Grocery
+3. Overstocked: Sofa, Jacket
+4. Best Sellers: Mobile
+
+Correlation:
+- Inventory Days vs Profit: r ≈ -0.32
+- Longer inventory = lower profit
+
+Recommendations:
+- Clearance sales on overstocked items
+- Boost marketing for fast-sellers
+- Target promotions regionally
+
+Deliverables:
+✔ mock_retail_data.csv
+✔ retail_analysis_queries.sql
+✔ retail_report_summary.txt
